@@ -38,7 +38,7 @@ git clone https://github.com/gonggonggnog/Easy-OJ-WEB
    启动开发服务器，以便你可以开始编写代码并在浏览器中实时预览：
 
 ```
-npm run serve
+npm run dev
 ```
 
 5. ## 生产构建
